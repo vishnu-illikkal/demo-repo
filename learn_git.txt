@@ -324,6 +324,11 @@ git log       to view all the commits
 
 
 
+1
+2
+3
+3
+clear
 
 
 
