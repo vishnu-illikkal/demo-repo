@@ -213,6 +213,9 @@ for 1st time this will not working
 git push --set-upstream origin feature
 
 this is needed
+git push will work afterwards
+now the changes are on github
+you can merge it using github but changes are only in th cloud not local
 
 
 this is in feature branch only now
