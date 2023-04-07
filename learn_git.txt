@@ -288,3 +288,5 @@ now if i change anything in the local machine and try to push the code to github
 it will show i am behind 2 commits 
 only because i oushed the c1 c2 before
 
+commit 1
+commit 2
