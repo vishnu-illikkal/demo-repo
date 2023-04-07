@@ -190,4 +190,14 @@ message       in first line
 Description   in all other lines 
 
 
+git branching
+master      main /default
+feature     we created
+
+git branch
+*main     * = current
+
+git checkout -b feature 
+creates a new branch called feature and switch to that 
+git branch   to view
 
