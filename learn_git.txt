@@ -335,22 +335,6 @@ this will go back to that commit
 delete from down
 
 
-1
-2
-3
-3
-clear
-
-345
-566
-345
-
-sdfdsf
-sdfdsfsdf
-sdfdsf
-sdfdsf
-dfew
-werew
 
 
 
