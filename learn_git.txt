@@ -340,12 +340,15 @@ mv filename filename
 
 
 
-FORK 
+FORK
+for example i forked linux 
 is used for getting all the code from other users into your account
 
 basically a copy of elses in your own account
 
+now we can edit locally 
 
+to get it into the main 
 
 
 
