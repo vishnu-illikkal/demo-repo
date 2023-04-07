@@ -236,11 +236,28 @@ what if 2 people edited same file?
 say 
 index.html 
 
+git merge master          will show an merge conflict
+
 <div>Hello</div>
 <<<<<<< HEAD
 <p>World</p>
 =======
 <p>there</p>
 >>>>>>> main
+
+change this into this to resolve as you wish
+<div>Hello</div>
+<p>World</p>
+<p>there</p>
+
+then commit / push
+
+//////////////////////////////////////////////
+git merge master
+from master to your branch 
+latest changes are updated from master to your branch
+The command git merge master merges the changes from the master branch into your current branch. This means that all changes made in the master branch will be added to your current branch. If there are any conflicts between the two branches, you will need to resolve them before you can complete the merge.
+//////////////////////////////////////////////
+
 
 
