@@ -199,8 +199,14 @@ git branch
 
 git checkout -b feature 
 creates a new branch called feature and switch to that 
-git branch   to view
+git branch   to view 
+
+
+git checkout branch_name        to switch between branches
+git diff branch_name            to view differences from current branch and 
 
 
 this is in feature branch only now
 ////////////////////////
+
+
