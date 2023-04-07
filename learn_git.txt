@@ -274,3 +274,8 @@ if we accidently did stage a change
 git add readme.md
 git reset readme.md
 to undo that
+
+if you want to reset lad=st commit
+git reset HEAD~1
+
+HEAD  means last commit (latest)
