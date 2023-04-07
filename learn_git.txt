@@ -267,3 +267,10 @@ git merge sub_branch_name
 git diff sub_branch_name
 there will be no differences
 
+UNDO IN GIT
+--------------
+
+if we accidently did stage a change
+git add readme.md
+git reset readme.md
+to undo that
