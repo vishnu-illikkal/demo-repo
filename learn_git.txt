@@ -221,4 +221,5 @@ you can merge it using github but changes are only in th cloud not local
 this is in feature branch only now
 ////////////////////////
 
-
+to get the changes from cloud to local 
+git pull
