@@ -223,3 +223,10 @@ this is in feature branch only now
 
 to get the changes from cloud to local 
 git pull
+git branch -d feature
+feature = branch name
+to delete the branch 
+branch is gone from local machine but still shows in cloud
+
+
+
