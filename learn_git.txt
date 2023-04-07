@@ -228,5 +228,10 @@ feature = branch name
 to delete the branch 
 branch is gone from local machine but still shows in cloud
 
+git conflicts
+-------------
+
+what if 2 people edited same file?
+
 
 
