@@ -322,13 +322,31 @@ git merge qt
 
 git log       to view all the commits 
 
+git add .
+git reset 23554370f8ee48f5186e1db4db9831a8265e5647      current commit hash from log
+will reset staging
 
+added and committed then 
+git reset 23554370f8ee48f5186e1db4db9831a8265e5647      previous commit hash from log
+this will go back to that commit 
 
 1
 2
 3
 3
 clear
+
+345
+566
+345
+
+sdfdsf
+sdfdsfsdf
+sdfdsf
+sdfdsf
+dfew
+werew
+
 
 
 
