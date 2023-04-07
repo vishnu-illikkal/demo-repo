@@ -279,3 +279,4 @@ if you want to reset lad=st commit
 git reset HEAD~1
 
 HEAD  means last commit (latest)
+commit 1
