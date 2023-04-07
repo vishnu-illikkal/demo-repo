@@ -330,6 +330,11 @@ added and committed then
 git reset 23554370f8ee48f5186e1db4db9831a8265e5647      previous commit hash from log
 this will go back to that commit 
 
+
+
+delete from down
+
+
 1
 2
 3
