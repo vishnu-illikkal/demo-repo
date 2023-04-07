@@ -353,4 +353,16 @@ to get it into the main
 
 
 
+git config --list
+user.name=Vishnu I P
+user.email=vishnuip4@gmail.com 
+
+git log 
+Author: Vishnu I P <vishnuip4@gmail.com>
+this is the git username and email
+
+git and github usernames are different entities
+
+
+
 
