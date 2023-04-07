@@ -118,3 +118,65 @@ git status
 git add .
 git commit -m "ssh keys sample"
 git push
+
+git push origin main
+
+
+
+CREATE A FOLDER LOCALLY ADD FILES AND CREATE A GIT REPO FROM that
+
+git init
+to create a .git folder and stuff 
+
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+git add .
+
+git commit -m "init"
+
+git push origin master 
+
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Error because our repo is local only not yet created on the github
+
+to do that create a EMPTY repo in github
+copy the ssh whatever from that repo
+
+git remote add origin git@github.com:vishnu-illikkal/demo-repo2.git
+
+git remote -v 
+to view the remote repos connected
+
+
+git add .
+git commit -m ""
+
+git push origin master          (master)this will be in git bash
+now the file is in the github
+
+git commit -m "d"
+git push 
+not working 
+need to set upstream first time then we can do git push
+git push -u origin master
+
+now we can use 
+git push
+
+NOTE 
+git add . is very important for new repos
+
