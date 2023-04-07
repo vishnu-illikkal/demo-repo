@@ -189,5 +189,33 @@ inside a .sh file will autorun everything
 message       in first line
 Description   in all other lines 
 
+/////////////////////////
+git branching
+master      main /default
+feature     we created
+
+git branch
+*main     * = current
+
+git checkout -b feature 
+creates a new branch called feature and switch to that 
+git branch   to view 
+
+
+git checkout branch_name        to switch between branches
+git diff branch_name            to view differences from current branch and 
+
+git add .
+git commit -a 
+git push
+for 1st time this will not working
+
+git push --set-upstream origin feature
+
+this is needed
+
+
+this is in feature branch only now
+////////////////////////
 
 
