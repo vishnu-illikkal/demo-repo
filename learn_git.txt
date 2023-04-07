@@ -317,7 +317,13 @@ so without pushing to cloud use locally
 qt branch
 git commit
 main branch
+git checkout main
 git merge qt
+
+
+
+
+
 
 
 
