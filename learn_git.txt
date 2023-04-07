@@ -331,8 +331,9 @@ git reset 23554370f8ee48f5186e1db4db9831a8265e5647      previous commit hash fro
 this will go back to that commit 
 
 
-
-delete from down
+git reset --hard e1ce681769de51964bd868257015b4a439a68f5efds   
+will remove everything till that commit
+that commit will be current
 
 
 
