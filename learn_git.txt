@@ -205,6 +205,15 @@ git branch   to view
 git checkout branch_name        to switch between branches
 git diff branch_name            to view differences from current branch and 
 
+git add .
+git commit -a 
+git push
+for 1st time this will not working
+
+git push --set-upstream origin feature
+
+this is needed
+
 
 this is in feature branch only now
 ////////////////////////
