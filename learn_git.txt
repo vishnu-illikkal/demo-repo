@@ -260,4 +260,10 @@ The command git merge master merges the changes from the master branch into your
 //////////////////////////////////////////////
 
 
+to merge a sub branch into a main branch
+git checkout main
+git merge sub_branch_name
+
+git diff sub_branch_name
+there will be no differences
 
