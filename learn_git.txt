@@ -294,3 +294,6 @@ now i deleted the this branch on github
 if i push
 it worked ??
 it did work.
+it worked because we initially configured the upstream 
+git push -u origin qt       qt = branch name
+
