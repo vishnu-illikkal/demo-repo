@@ -335,7 +335,8 @@ git reset --hard e1ce681769de51964bd868257015b4a439a68f5efds
 will remove everything till that commit
 that commit will be current
 
-
+change the name (rename) of a file / folder
+mv filename filename 
 
 
 
