@@ -289,3 +289,6 @@ it will show i am behind 2 commits
 only because i oushed the c1 c2 before
 
 commit 1
+
+now i deleted the this branch on github 
+if i push
