@@ -320,6 +320,9 @@ main branch
 git checkout main
 git merge qt
 
+git log       to view all the commits 
+
+
 
 
 
