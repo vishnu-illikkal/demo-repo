@@ -233,5 +233,14 @@ git conflicts
 
 what if 2 people edited same file?
 
+say 
+index.html 
+
+<div>Hello</div>
+<<<<<<< HEAD
+<p>World</p>
+=======
+<p>there</p>
+>>>>>>> main
 
 
