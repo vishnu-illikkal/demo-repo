@@ -297,3 +297,29 @@ it did work.
 it worked because we initially configured the upstream 
 git push -u origin qt       qt = branch name
 
+
+qt -> push -> in cloud -> delete qt 
+in github merge
+main -> pull
+
+OR 
+qt -> commit 
+main -> git merge qt
+
+to delete / remove a branch on local machine
+git branch -d branch_name 
+to create a new branch locally
+git branch -b branch_name 
+
+I deleted the qt branch from the github. 
+so without pushing to cloud use locally
+
+qt branch
+git commit
+main branch
+git merge qt
+
+
+
+
+
