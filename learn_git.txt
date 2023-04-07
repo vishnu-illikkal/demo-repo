@@ -189,7 +189,7 @@ inside a .sh file will autorun everything
 message       in first line
 Description   in all other lines 
 
-
+/////////////////////////
 git branching
 master      main /default
 feature     we created
@@ -201,3 +201,6 @@ git checkout -b feature
 creates a new branch called feature and switch to that 
 git branch   to view
 
+
+this is in feature branch only now
+////////////////////////
