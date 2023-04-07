@@ -11,11 +11,11 @@ Repository  your project folder
 
 git commands
 
-clone		from cloud to local
-add		tracks your files and changes
+clone		  from cloud to local
+add		    tracks your files and changes
 commit		save to git locally
-push		upload to a remote repo like github
-pull		from cloud to local
+push		  upload to a remote repo like github
+pull		  from cloud to local
 
 
 check if git installed
