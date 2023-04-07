@@ -180,3 +180,14 @@ git push
 NOTE 
 git add . is very important for new repos
 
+git add .
+git commit -a 
+git push
+
+inside a .sh file will autorun everything
+-a will open a file we can add 
+message       in first line
+Description   in all other lines 
+
+
+
