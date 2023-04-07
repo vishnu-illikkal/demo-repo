@@ -340,6 +340,11 @@ mv filename filename
 
 
 
+FORK 
+is used for getting all the code from other users into your account
+
+basically a copy of elses in your own account
+
 
 
 
