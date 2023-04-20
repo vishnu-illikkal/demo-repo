@@ -16,7 +16,7 @@ add		    	tracks your files and changes
 commit			save to git locally
 push		  	upload to a remote repo like github
 pull		  	from cloud to local
-
+status      checks status 
 
 check if git installed
 
