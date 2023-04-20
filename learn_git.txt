@@ -11,11 +11,11 @@ Repository  your project folder
 
 git commands
 
-clone		  from cloud to local
-add		    tracks your files and changes
-commit		save to git locally
-push		  upload to a remote repo like github
-pull		  from cloud to local
+clone		  	from cloud to local
+add		    	tracks your files and changes
+commit			save to git locally
+push		  	upload to a remote repo like github
+pull		  	from cloud to local
 
 
 check if git installed
@@ -25,7 +25,13 @@ git --version
 
 get repo from github to local machine
 get inside the empty folder open cmd/terminal
-git clone 
+git clone git@github.com:vishnu-illikkal/demo-repo.git		ssh from github
+example 
+desktop/new folder
+open git bash inside this dir
+git clone git@github.com:vishnu-illikkal/demo-repo.git
+then demo-repo folder will be created with repo inside
+
 
 ssh key required
 
