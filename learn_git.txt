@@ -217,6 +217,7 @@ git push
 for 1st time this will not working
 
 git push --set-upstream origin feature
+or
 git push -u origin feature
 
 this is needed
