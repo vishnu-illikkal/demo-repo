@@ -217,6 +217,7 @@ git push
 for 1st time this will not working
 
 git push --set-upstream origin feature
+git push -u origin feature
 
 this is needed
 git push will work afterwards
@@ -229,6 +230,7 @@ this is in feature branch only now
 
 to get the changes from cloud to local 
 git pull
+
 git branch -d feature
 feature = branch name
 to delete the branch 
@@ -245,11 +247,8 @@ index.html
 git merge master          will show an merge conflict
 
 <div>Hello</div>
-<<<<<<< HEAD
 <p>World</p>
-=======
 <p>there</p>
->>>>>>> main
 
 change this into this to resolve as you wish
 <div>Hello</div>
